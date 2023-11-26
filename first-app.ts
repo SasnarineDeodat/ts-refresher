@@ -112,3 +112,10 @@ admin = {
   permissions: ["login"],
   userName: "Robbie",
 };
+
+let role: "admin" | "user" | "editor"; //"admin", "user", "editor"
+
+role = "admin";
+role = "user";
+role = "editor";
+// role = "abc";
