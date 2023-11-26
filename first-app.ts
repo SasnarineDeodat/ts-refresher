@@ -8,3 +8,8 @@ let userAge = 34;
 let isValid = true;
 
 // String, number, boolean
+
+let userID: string | number = "abc1";
+userID = 1234;
+
+// userId = true;
