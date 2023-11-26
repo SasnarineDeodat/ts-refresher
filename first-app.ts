@@ -40,3 +40,8 @@ let hobbies: string[]; // number[], boolean[]
 
 hobbies = ["Sports", "Cooking", "Reading"];
 // hobbies = [1, 2, 3];
+
+function add(a: number, b: number) {
+  const result = a + b;
+  return result;
+}
