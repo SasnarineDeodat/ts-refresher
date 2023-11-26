@@ -32,3 +32,11 @@ user = {
 };
 
 // user = {};
+
+// let hobbies: Array<string>;
+let hobbies: string[]; // number[], boolean[]
+
+// {name: string; age:number}[]
+
+hobbies = ["Sports", "Cooking", "Reading"];
+// hobbies = [1, 2, 3];
